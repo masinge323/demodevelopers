@@ -5,9 +5,6 @@ import '../styles/bootstrap.min.css'
 
 const contact = document.getElementById('contact');
 
-function scrollFuction(){
-    document.documentElement.scrollTop = 1;
-}
 
 
 const Header = () => {
@@ -47,7 +44,7 @@ const Header = () => {
                         <Nav.Link to='/'>Meet Our Staff</Nav.Link>
                     </div>
                 </div>
-                <Nav.Link className='Nav-Link' id='contact'>Contact</Nav.Link>
+                <Nav.Link className='Nav-Link' id={contact}>Contact</Nav.Link>
             </Navbar.Collapse>
         </Navbar>
     )
