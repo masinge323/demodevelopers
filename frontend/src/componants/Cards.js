@@ -25,7 +25,7 @@ const Cards = () => {
                         <Card.Body>
                             <Card.Title>Wired and Wireless Internet</Card.Title>
                             <Card.Text>
-                            We supply, setup and do connections to all types of networks such as fiber, enternet and wireless we needed ::
+                            We supply, setup and do connections to all types of networks such as fiber, enternet and wireless where needed ::
                             Our service is of best quality :: We offer maintanace for free to our intallations.
                             </Card.Text>
                         </Card.Body>
