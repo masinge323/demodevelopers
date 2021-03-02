@@ -1,0 +1,15 @@
+.color{
+    color: white;
+    text-align: center;
+}
+.line{
+    background-color: rgb(231, 198, 231);
+}
+
+p{
+    font-size: 12px;
+}
+*{
+    color: white;
+}
+

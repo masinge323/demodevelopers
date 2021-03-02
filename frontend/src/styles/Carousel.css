@@ -1,0 +1,25 @@
+img{
+    max-height: 470px;
+}
+
+h3{
+    color: #face3b;
+    font-family: pjaulline;
+    font-weight: 900;
+    font-size: 70px;
+    text-shadow: 0 0 5px rgba(0,0,0,0.7);
+    
+}
+
+p{
+    font-size:18px;
+    font-weight: 500;
+    font-family: sortelo;
+    color:blur(15px) rgb(71, 181, 181);
+    text-shadow: 0 0 5px rgba(0,0,0,0.7);
+}
+
+.caption{
+    
+    margin-bottom: 60px;
+}
