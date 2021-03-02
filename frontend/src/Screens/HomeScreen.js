@@ -7,7 +7,7 @@ const HomeScreen = () => {
     return (
         <>
             <Carousel/>
-                <h2><strong>Latest Intallations In Demand</strong></h2>
+                <h2 className='m-4 secondary'><strong>Latest Intallations In Demand</strong></h2>
             <Cards/>
             <States/>
         </>
