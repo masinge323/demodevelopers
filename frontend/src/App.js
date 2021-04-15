@@ -7,6 +7,11 @@ import HomeScreen from './Screens/HomeScreen'
 function App() {
   return (
     <>
+      <Header/>
+      <main>
+        <HomeScreen/>
+      </main>
+      <Footer/>
       
     </>
   );
